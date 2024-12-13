@@ -11,7 +11,7 @@ public class GithubApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GithubApplication.class, args);
 		log.info("Hello World");
-    log.info("Application logging branch");
+    log.info("Added database branch");
 	}
 
 }
